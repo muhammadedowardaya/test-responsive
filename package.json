@@ -2,9 +2,7 @@
 	"devDependencies": {
 		"tailwindcss": "^3.2.7"
 	},
-	"dependencies": {
-		"gsap": "^3.11.4"
-	},
+	"dependencies": {},
 	"scripts": {
 		"dev": "npx tailwindcss -i ./public/css/tailwind.css -o ./dist/output.css --watch"
 	}
